@@ -1,0 +1,2 @@
+# SlotMachine
+Using Functions
